@@ -1,7 +1,7 @@
 {
-  "name": "some codex plugins",
+  "name": "SomeCodexPlugins",
   "interface": {
-    "displayName": "some codex plugins"
+    "displayName": "SomeCodexPlugins"
   },
   "plugins": [
     {
